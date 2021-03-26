@@ -67,12 +67,26 @@ body {
     transition: 2s;
 	text-decoration: underline;
 }
+
 /* bedroom */
+
 .bimage-1 {
     margin-top: 25px;
-    
+    margin-left: 250px;
+    float: left;
 }
+.btext-1 p{
+    margin-top: 100px;
+    float:right;
+    text-align: center;
+    margin-right: 250px;
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
 /* contact us */
+
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap');
 *
 {
