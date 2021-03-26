@@ -67,11 +67,7 @@ body {
     transition: 2s;
 	text-decoration: underline;
 }
-/* bedroom */
-.bimage-1 {
-    margin-top: 25px;
-    
-}
+
 /* contact us */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap');
 *
@@ -233,4 +229,29 @@ body {
   {
     width: 100%;
   }
+}
+
+/* Bedroom file css start*/
+
+
+.cf{
+  margin-top: 50px;
+  margin-left: 10px;
+}
+.cf img {
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 20px;
+  width: 200px;
+  
+ 
+}
+.text {
+  display: inline-block;
+  vertical-align: middle;
+  /* width: calc(100% - 600px);    */
+  width: 70%;
+  margin-left: 50px; 
+  font-size: 20px;
+  text-align: justify;
 }
