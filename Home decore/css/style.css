@@ -68,7 +68,28 @@ body {
 	text-decoration: underline;
 }
 
+<<<<<<< HEAD
+=======
+/* bedroom */
+
+.bimage-1 {
+    margin-top: 25px;
+    margin-left: 250px;
+    float: left;
+}
+.btext-1 p{
+    margin-top: 100px;
+    float:right;
+    text-align: center;
+    margin-right: 250px;
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+>>>>>>> d491e32e92cb78f5a4b28d6c1ff2e923d2856ced
 /* contact us */
+
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap');
 *
 {
