@@ -46,6 +46,7 @@ body {
 	padding: 2px;
 	display: flex;
 	margin: auto;
+  background-color: rgb(107, 105, 105);
 	padding: 20px;
 }
 .footer .footer-create{
