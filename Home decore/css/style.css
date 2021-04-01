@@ -59,14 +59,16 @@ body {
 }
 .footer .footer-nav a{
 	margin: 20px;
-    font-size: 22px;
-    text-decoration: none;
-    color:black;
+  padding: 10px 10px;
+  font-size: 22px;
+  text-decoration: none;
+  color:black;
 }
 .footer .footer-nav a:hover{
-    color:blue ;
-    transition: 2s;
-	text-decoration: underline;
+  color:blue;
+  background-color:rgb(250, 176, 188); ;
+  transition: 2s;
+	text-decoration: none;
 }
 
 /* bedroom */
