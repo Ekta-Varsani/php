@@ -46,6 +46,7 @@ body {
 	padding: 2px;
 	display: flex;
 	margin: auto;
+  background-color: rgb(107, 105, 105);
 	padding: 20px;
 }
 .footer .footer-create{
@@ -337,4 +338,29 @@ body {
   {
     width: 100%;
   }
+}
+
+/* Bedroom file css start*/
+
+
+.cf{
+  margin-top: 50px;
+  margin-left: 10px;
+}
+.cf img {
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 20px;
+  width: 200px;
+  
+ 
+}
+.text {
+  display: inline-block;
+  vertical-align: middle;
+  /* width: calc(100% - 600px);    */
+  width: 70%;
+  margin-left: 50px; 
+  font-size: 20px;
+  text-align: justify;
 }
