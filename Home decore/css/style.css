@@ -83,7 +83,97 @@ body {
     font-size: 25px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
-
+.bimage-2{
+  margin-top: 200px;
+  margin-right: 250px;
+  float: right;
+}
+.btext-2{
+  margin-top: 155px;
+  float:left;
+  text-align: center;
+  margin-left: 250px;
+  font-size: 25px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.bimage-3 {
+  margin-top: 200px;
+  margin-left: 250px;
+  float: left;
+}
+.btext-3 p{
+  margin-top: 150px;
+  float:right;
+  text-align: center;
+  margin-right: 250px;
+  font-size: 25px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.bimage-4{
+  margin-top: 200px;
+  margin-right: 250px;
+  float: right;
+}
+.btext-4 p{
+  margin-top: 190px;
+  float:left;
+  text-align: center;
+  margin-left: 250px;
+  font-size: 25px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.bimage-5 {
+  margin-top: 250px;
+  margin-left: 250px;
+  float: left;
+}
+.btext-5 p{
+  margin-top: 190px;
+  float:right;
+  text-align: center;
+  margin-right: 250px;
+  font-size: 25px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.bimage-6{
+  margin-top: 200px;
+  margin-right: 250px;
+  float: right;
+}
+.btext-6 p{
+  margin-top: 150px;
+  float:left;
+  text-align: center;
+  margin-left: 250px;
+  font-size: 25px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.bimage-7 {
+  margin-top: 200px;
+  margin-left: 250px;
+  float: left;
+}
+.btext-7 p{
+  margin-top: 190px;
+  float:right;
+  text-align: center;
+  margin-right: 250px;
+  font-size: 25px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.bimage-8{
+  margin-top: 200px;
+  margin-right: 250px;
+  float: right;
+}
+.btext-8 p{
+  margin-top: 190px;
+  float:left;
+  text-align: center;
+  margin-left: 250px;
+  font-size: 25px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
 
 /* contact us */
 
