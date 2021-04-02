@@ -71,7 +71,7 @@ body {
 	text-decoration: none;
 }
 
-/* bedroom */
+/* bedroom, hall, kitchen*/
 
 .bimage-1 {
     margin-top: 25px;
@@ -179,7 +179,6 @@ body {
 }
 
 /* contact us */
-
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap');
 *
 {
@@ -188,7 +187,7 @@ body {
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
 }
-.contact
+.c
 {
   position: relative;
   min-height: 100vh;
@@ -197,26 +196,26 @@ body {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  background: url("../images/bg.jpg");
+  background: url('../images/bg.jpg');
   background-size: cover;
 }
-.contact .content
+.c .subc
 {
   max-width: 800px;
   text-align: center;
 }
-.contact .content h2
+.c .subc h2
 {
   font-size: 36px;
   font-weight: 500;
   color: #fff;
 }
-.contact .content p
+.c .subc p
 {
   font-weight: 300;
   color: #fff;
 }
-.container
+.c1
 {
   width: 100%;
   display: flex;
@@ -224,19 +223,19 @@ body {
   align-items: center;
   margin-top: 30px;
 }
-.container .contactInfo
+.c1 .subc1
 {
   width: 50%;
   display: flex;
   flex-direction: column;
 }
-.container .contactInfo .box
+.c1 .subc1 .box
 {
   position: relative;
   padding: 20px 0;
   display: flex;
 }
-.container .contactInfo .box .icon
+.c1 .subc1 .box .icon
 {
   min-width: 60px;
   height: 60px;
@@ -247,7 +246,7 @@ body {
   border-radius: 50%;
   font-size: 22px;
 }
-.container .contactInfo .box .text
+.c1 .subc1 .box .text
 {
   display: flex;
   margin-left: 20px;
@@ -256,31 +255,31 @@ body {
   flex-direction: column;
   font-weight: 300;
 }
-.container .contactInfo .box .text h3
+.c1 .sub1 .box .text h3
 {
   font-weight: 500;
   color: #00bc;
 }
-.contactForm
+.form
 {
   width: 40%;
   padding: 40px;
   background: #fff;
 }
-.contactForm h2
+.form h2
 {
   font-size: 30px;
   color: #333;
   font-weight: 500;
 }
-.contactForm .inputbox
+.form .inputbox
 {
   position: relative;
   width: 100%;
   margin-top: 10px;
 }
-.contactForm .inputbox input,
-.contactForm .inputbox textarea
+.form .inputbox input,
+.form .inputbox textarea
 {
   width: 100%;
   padding: 5px 0;
@@ -291,7 +290,7 @@ body {
   outline: none;
   resize: none;
 }
-.contactForm .inputbox span
+.form .inputbox span
 {
   position: absolute;
   left: 0;
@@ -302,16 +301,16 @@ body {
   transition: 0.5s;
   color: #666;
 }
-.contactForm .inputbox input:focus ~ span,
-.contactForm .inputbox input:valid ~ span,
-.contactForm .inputbox textarea:focus ~ span,
-.contactForm .inputbox textarea:valid ~ span
+.form .inputbox input:focus ~ span,
+.form .inputbox input:valid ~ span,
+.form .inputbox textarea:focus ~ span,
+.form .inputbox textarea:valid ~ span
 {
   color: #e91e63;
   font-size: 12px;
   transform: translateY(-20px);
 }
-.container .inputbox input[type="submit"]
+.c1 .inputbox input[type="submit"]
 {
   width: 100px;
   background: #00bc;
@@ -323,46 +322,24 @@ body {
 }
 @media (max-width: 991px)
 {
-  .contact
+  .c
   {
     padding: 50px;
   }
-  .container
+  .c1
   {
     flex-direction: column;
   }
-  .container .contactInfo
+  .c1 .subc1
   {
     margin-bottom: 40px;
   }
-  .container .contactInfo,
-  .contactForm
+  .c1 .subc1,
+  .form
   {
     width: 100%;
   }
 }
 
-/* Bedroom file css start*/
 
 
-.cf{
-  margin-top: 50px;
-  margin-left: 10px;
-}
-.cf img {
-  display: inline-block;
-  vertical-align: middle;
-  margin-left: 20px;
-  width: 200px;
-  
- 
-}
-.text {
-  display: inline-block;
-  vertical-align: middle;
-  /* width: calc(100% - 600px);    */
-  width: 70%;
-  margin-left: 50px; 
-  font-size: 20px;
-  text-align: justify;
-}
