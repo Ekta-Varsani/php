@@ -2,7 +2,10 @@ body {
     margin: 0;
     font-family: 'lato';
 }	
-
+.active{
+  color: white !important;
+  background-color:rgb(129, 127, 127);
+}
 .row{
     margin-top: 5px;
 }
@@ -46,7 +49,7 @@ body {
 	padding: 2px;
 	display: flex;
 	margin: auto;
-  background-color: rgb(107, 105, 105);
+  background-color: rgb(129, 127, 127);
 	padding: 20px;
 }
 .footer .footer-create{
@@ -71,8 +74,48 @@ body {
 	text-decoration: none;
 }
 
-/* bedroom, hall, kitchen*/
 
+/* bedroom */
+
+
+.bedroom_row{
+  margin-left: 180PX;
+  margin-bottom: 15px;
+  margin-top: 20px;
+  
+  
+}
+
+.sub_row {
+display: -webkit-box;
+display: -ms-flexbox;
+display: flex;
+-ms-flex-wrap: wrap;
+flex-wrap: wrap;
+vertical-align: 10em;
+/* padding-top: 50px; */
+
+
+}
+.grid1{
+  padding-top: 100px;
+  margin-left: 100px;
+  padding-right: 100px;
+}
+.grid1 p {
+  text-align: center;
+  font-size: 26px;
+  letter-spacing: 1px;
+  color: #636363;
+  line-height: 28px;
+  
+}
+
+
+/* .container-1{
+  width: 100%;
+  background-color: #333;
+}
 .bimage-1 {
     margin-top: 25px;
     margin-left: 250px;
@@ -176,7 +219,8 @@ body {
   margin-left: 250px;
   font-size: 25px;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-}
+} */
+
 
 /* contact us */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap');
