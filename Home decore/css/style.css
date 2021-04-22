@@ -1,50 +1,54 @@
 body {
-    margin: 0;
-    font-family: 'lato';
-}	
+  margin: 0;
+  font-family: 'lato';
+}
 .active{
-  color: white !important;
-  background-color:rgb(129, 127, 127);
+color: white !important;
+background-color:rgb(129, 127, 127);
 }
 .row{
-    margin-top: 5px;
+  margin-top: 5px;
 }
 .home{
-    width: 1200px;
-    margin: auto;
+  width: 1200px;
+  margin: auto;
 }
 .header-logo {
-    width: 300px;
+  width: 300px;
 }
 
 .header-nav {
-    margin-top: 12px;
-    margin-left: 50px;
+  margin-top: 12px;
+  margin-left: 50px;
 }
 .header-nav nav a {
-    margin: 35px;
-    padding: 10px 10px;
-    font-size: 22px;
-    text-decoration: none;
-    color:black;
+  margin: 35px;
+  padding: 10px 10px;
+  font-size: 22px;
+  text-decoration: none;
+  color:black;
 }
 .header-nav nav a:hover{
-    color: blue;
-    background-color:rgb(250, 176, 188);
-    transition: 1s;
+  color: blue;
+  background-color:rgb(250, 176, 188);
+  transition: 1s;
 }
 
 .title-image{
-  text-align: center;
-   position: relative;
+text-align: center;
+ position: relative;
 }
 .title-txt p{
-    font-size: 25px;
-    font-style:italic;
-    position: absolute;
-    left: 400px;
-    bottom: 10px;
-    color:rgb(78, 22, 22);
+  font-size: 25px;
+  font-style:italic;
+  position: absolute;
+  left: 400px;
+  bottom: 10px;
+  color:rgb(78, 22, 22);
+}
+.mid1{
+display: flex;
+justify-content: center;
 }
 .mid1{
   display: flex;
@@ -136,7 +140,7 @@ vertical-align: 10em;
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  background: url('../images/bg.jpg');
+  background: url("../images/bg1.jpg");
   background-size: cover;
 }
 .c .subc
@@ -260,6 +264,7 @@ vertical-align: 10em;
   padding: 10px;
   font-size: 18px;
 }
+
 @media (max-width: 991px)
 {
   .c
@@ -280,6 +285,3 @@ vertical-align: 10em;
     width: 100%;
   }
 }
-
-
-
