@@ -32,20 +32,20 @@
         </header>
         <br>
             <div class="title-image">
-                <img src="images/hall/abc.jpg" width="1345" height="550">
+                <img src="images/hall/hall (11).jpg" width="1345" height="550">
                     <div class="title-txt">
-                        <p><b> Be faithful to your own taste,<br> because nothing you really like is ever not out of style!!!</b></p>
+                       
                     </div> 
             </div>
         <div class="mid1">    
         <table>
             <tr>
-                <td><img src="images/hall/2.jpg" height="500" width="661" ></td>
+                <td><img src="images/hall/hall (2).png" height="500" width="661" ></td>
                 <td></td>
                 <td></td>
                 <td></td>
                 <td></td>
-                <td><img src="images/bedroom/3.jpg" height="500" width="661"></td>
+                <td><img src="images/bedroom/bedroom (3).jpg" height="500" width="661"></td>
                 <br>
                 <br>
             </tr>
@@ -55,12 +55,12 @@
         <div class="mid1">
         <table>
             <tr>
-                <td><img src="images/hall/4.jpg" height="500" width="661" ></td>
+                <td><img src="images/hall/hall (4).jpg" height="500" width="661" ></td>
                 <td></td>
                 <td></td>
                 <td></td>
                 <td></td>
-                <td><img src="images/hall/5.jpg" height="500" width="661"></td>
+                <td><img src="images/hall/hall (5).jpg" height="500" width="661"></td>
                 <br>
                 <br>
             </tr>

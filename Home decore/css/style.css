@@ -5,6 +5,7 @@ body {
 .active{
 color: white !important;
 background-color:rgb(129, 127, 127);
+border-radius: 10px;
 }
 .row{
   margin-top: 5px;
@@ -32,6 +33,7 @@ background-color:rgb(129, 127, 127);
   color: blue;
   background-color:rgb(250, 176, 188);
   transition: 1s;
+  border-radius: 10px;
 }
 
 .title-image{
@@ -152,12 +154,12 @@ vertical-align: 10em;
 {
   font-size: 36px;
   font-weight: 500;
-  color: #fff;
+  color: rgb(68, 57, 57);
 }
 .c .subc p
 {
   font-weight: 300;
-  color: #fff;
+  color: rgb(68, 57, 57);
 }
 .c1
 {
@@ -183,7 +185,7 @@ vertical-align: 10em;
 {
   min-width: 60px;
   height: 60px;
-  background: #fff;
+  background: rgb(202, 181, 87);
   display: flex;
   justify-content: center;
   align-items: center;
@@ -195,7 +197,7 @@ vertical-align: 10em;
   display: flex;
   margin-left: 20px;
   font-size: 16px;
-  color: #fff;
+  color: rgb(68, 57, 57);
   flex-direction: column;
   font-weight: 300;
 }

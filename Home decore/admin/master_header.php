@@ -25,7 +25,7 @@
       <ul class="navbar-nav ml-auto">
         <li class="nav-item dropdown mr-3">
           <a href="" class="nav-link" >
-            <i class="fa fa-user"> </i>   Welcome Admin 
+            <i class="fa fa-user"> </i>   Welcome Admin <?/*= $row["fname"] */?> 
           </a>
           
         </li>
