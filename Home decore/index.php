@@ -17,11 +17,11 @@
                             <td>
                                 <div class="header-nav">
                                 <nav>
-                                    <a href="homedecor.html" class="active">Home</a>
-                                    <a href="bedroom.html">Bedroom</a>
-                                    <a href="kitchen.html">Kitchen</a>
-                                    <a href="hall.html">Hall</a>
-                                    <a href="contactus.html">Contact Us</a>
+                                    <a href="index.php" class="active">Home</a>
+                                    <a href="bedroom.php">Bedroom</a>
+                                    <a href="kitchen.php">Kitchen</a>
+                                    <a href="hall.php">Hall</a>
+                                    <a href="contactus.php">Contact Us</a>
                                 </nav>
                                 </div> 
                             </td>  
@@ -77,11 +77,11 @@
             </div>
             <div class="footer-nav">
                 <nav>
-                    <a href="homedecor.html">Home</a>
-                    <a href="bedroom.html">Bedroom</a>
-                    <a href="kitchen.html">Kitchen</a>
-                    <a href="hall.html">Hall</a>
-                    <a href="contactus.html">Contact Us</a>
+                    <a href="index.php">Home</a>
+                    <a href="bedroom.php">Bedroom</a>
+                    <a href="kitchen.php">Kitchen</a>
+                    <a href="hall.php">Hall</a>
+                    <a href="contactus.php">Contact Us</a>
                 </nav>
             </div>
         </div>
